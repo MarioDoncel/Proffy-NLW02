@@ -1,0 +1,16 @@
+{
+  "name": "nlw02",
+  "scripts": {
+    "dev": "nodemon src/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite-async": "^1.1.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "nunjucks": "^3.2.3"
+  }
+}
