@@ -154,7 +154,7 @@ Mario Andres Doncel Neto
 Email - 88mario.doncel@gmail.com <br>
 Whatsapp - +55 19 99612 9909
 
-Project Link: [https://github.com/MarioDoncel/NLW1](https://github.com/MarioDoncel/NLW1)
+Project Link: [https://github.com/MarioDoncel/Proffy-NLW02](https://github.com/MarioDoncel/Proffy-NLW02)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
