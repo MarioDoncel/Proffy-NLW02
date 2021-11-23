@@ -10,7 +10,6 @@
   },
   "type": "module",
   "devDependencies": {
-    "nodemon": "^2.0.14",
-    "nunjucks": "^3.2.3"
+    "nodemon": "^2.0.14"
   }
 }
