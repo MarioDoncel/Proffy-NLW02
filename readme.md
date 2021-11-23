@@ -121,21 +121,17 @@ Finished.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<div>
-  <p>Index Page - Here you have the option to create a class as a Teacher or search for a class as a Student.</p>
-  <img src="public/images/readmeImages/Index.png" width="500px">
-</div>
-<br>
-<div>
-  <p>Create Class Page - Here, as a Teacher, you need to fill all the inputs to create a new class schedule where you are available.</p>
-  <img src="public/images/readmeImages/CreateClass.png" width="500px">
-</div>
-<br>
-<div>
-  <p>Search Class Page - Here, as a Student, you can search classes by subject, weekday and hour.Then the available Teachers will be shown 
-   below with a button to make contact thru whatsapp. </p>
-  <img src="public/images/readmeImages/SearchResults.png" width="500px">
-</div>
+
+* **Index Page** - Here you have the option to create a class as a Teacher or search for a class as a Student.
+<img src="public/images/readmeImages/Index.png" width="500px">
+
+
+* **Create Class Page** - Here, as a Teacher, you need to fill all the inputs to create a new class schedule where you are available.
+<img src="public/images/readmeImages/CreateClass.png" width="500px">
+
+* **Search Class Page** - Here, as a Student, you can search classes by subject, weekday and hour.Then the available Teachers will be shown below with a button to make contact thru whatsapp. 
+<img src="public/images/readmeImages/SearchResults.png" width="500px">
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
